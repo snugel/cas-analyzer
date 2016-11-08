@@ -1,0 +1,3 @@
+[submodule "jbfilereader"]
+    path = core/jbfilereader
+    url = git://github.com/pjb7687/jbfilereader
